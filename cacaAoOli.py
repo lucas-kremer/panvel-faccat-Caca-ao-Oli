@@ -1,3 +1,5 @@
+#Lucas Kremer Wilbert
+
 while True: 
     posicaoBob = int(input("Insira a posição do BOB: "))
     posicaoRex = int(input("Insira a posição do REX: "))
